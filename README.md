@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ashfaq Khan</h1>
 <h3 align="center">A passionate Full Stack Developer, Machine Learning Enthusiast</h3>
-<img align="right" alt="coding image" width="450px"  src="![image](https://github.com/MDAshfaqkhan/MDAshfaqkhan/assets/94469250/d26d95a7-932d-41f1-825e-cd2a1a08fd01.gif)
- > 
+<img align="right" alt="coding image" width="450px" src="https://github.com/MDAshfaqkhan/MDAshfaqkhan/assets/94469250/d26d95a7-932d-41f1-825e-cd2a1a08fd01.gif">
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdashfaqkhan&label=Profile%20views&color=0e75b6&style=flat" alt="mdashfaqkhan" /> </p>
 
