@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ashfaq Khan</h1>
 <h3 align="center">A passionate Full Stack Developer, Machine Learning Enthusiast</h3>
 <!-- <img align="right" alt="coding image" width="450px" src="https://github.com/MDAshfaqkhan/MDAshfaqkhan/assets/94469250/d26d95a7-932d-41f1-825e-cd2a1a08fd01.gif"> -->
-<img alt="Coding" width="750" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966"></div>
+<!-- <img alt="Coding" width="750" src="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966"></div> -->
 </br>
 <!-- <img align="right" alt="Coding" width="500" src="https://miro.medium.com/v2/resize:fit:800/1*eg4zTacGA7wQfxNJ7BgOCw.jpeg"> -->
 <img align="right" alt="coding image" width="450px" src="https://github.com/MDAshfaqkhan/MDAshfaqkhan/assets/94469250/d26d95a7-932d-41f1-825e-cd2a1a08fd01.gif">
