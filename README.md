@@ -52,7 +52,7 @@
 
 🔗 LinkedIn
 
-https://www.linkedin.com/in/ashfaq-khan-mohammed-130622172/
+(https://www.linkedin.com/in/ashfaqkhanashu/)/
 
 ---
 
